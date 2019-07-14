@@ -1,0 +1,459 @@
+{
+    "nodes": [
+        {
+            "node": "0",
+            "name": "jimin-160",
+            "stem": "jimin",
+            "seats": 114
+        },
+        {
+            "node": "1",
+            "name": "minshu-160",
+            "stem": "minshu",
+            "seats": 83
+        },
+        {
+            "node": "2",
+            "name": "koumei-160",
+            "stem": "koumei",
+            "seats": 24
+        },
+        {
+            "node": "3",
+            "name": "nihonkyosan-160",
+            "stem": "nihonkyosan",
+            "seats": 9
+        },
+        {
+            "node": "4",
+            "name": "shamin-160",
+            "stem": "shamin",
+            "seats": 5
+        },
+        {
+            "node": "5",
+            "name": "mu-160",
+            "stem": "mu",
+            "seats": 7
+        },
+        {
+            "node": "6",
+            "name": "minshu-167",
+            "stem": "minshu",
+            "seats": 112
+        },
+        {
+            "node": "7",
+            "name": "jimin-167",
+            "stem": "jimin",
+            "seats": 84
+        },
+        {
+            "node": "8",
+            "name": "koumei-167",
+            "stem": "koumei",
+            "seats": 20
+        },
+        {
+            "node": "9",
+            "name": "nihonkyosan-167",
+            "stem": "nihonkyosan",
+            "seats": 7
+        },
+        {
+            "node": "10",
+            "name": "shamin-167",
+            "stem": "shamin",
+            "seats": 5
+        },
+        {
+            "node": "11",
+            "name": "kokumin-167",
+            "stem": "kokumin",
+            "seats": 4
+        },
+        {
+            "node": "12",
+            "name": "mu-167",
+            "stem": "mu",
+            "seats": 10
+        },
+        {
+            "node": "13",
+            "name": "minshu-175",
+            "stem": "minshu",
+            "seats": 106
+        },
+        {
+            "node": "14",
+            "name": "jimin-175",
+            "stem": "jimin",
+            "seats": 83
+        },
+        {
+            "node": "15",
+            "name": "koumei-175",
+            "stem": "koumei",
+            "seats": 19
+        },
+        {
+            "node": "16",
+            "name": "minna-175",
+            "stem": "minna",
+            "seats": 11
+        },
+        {
+            "node": "17",
+            "name": "nihonkyosan-175",
+            "stem": "nihonkyosan",
+            "seats": 6
+        },
+        {
+            "node": "18",
+            "name": "tachiagare-175",
+            "stem": "tachiagare",
+            "seats": 5
+        },
+        {
+            "node": "19",
+            "name": "shamin-175",
+            "stem": "shamin",
+            "seats": 4
+        },
+        {
+            "node": "20",
+            "name": "kokumin-175",
+            "stem": "kokumin",
+            "seats": 3
+        },
+        {
+            "node": "21",
+            "name": "mu-175",
+            "stem": "mu",
+            "seats": 5
+        },
+        {
+            "node": "22",
+            "name": "jimin-184",
+            "stem": "jimin",
+            "seats": 113
+        },
+        {
+            "node": "23",
+            "name": "minshu-184",
+            "stem": "minshu",
+            "seats": 58
+        },
+        {
+            "node": "24",
+            "name": "koumei-184",
+            "stem": "koumei",
+            "seats": 20
+        },
+        {
+            "node": "25",
+            "name": "minna-184",
+            "stem": "minna",
+            "seats": 18
+        },
+        {
+            "node": "26",
+            "name": "nihonkyosan-184",
+            "stem": "nihonkyosan",
+            "seats": 11
+        },
+        {
+            "node": "27",
+            "name": "ishin-184",
+            "stem": "ishin",
+            "seats": 9
+        },
+        {
+            "node": "28",
+            "name": "shamin-184",
+            "stem": "shamin",
+            "seats": 3
+        },
+        {
+            "node": "29",
+            "name": "kaikaku-184",
+            "stem": "kaikaku",
+            "seats": 3
+        },
+        {
+            "node": "30",
+            "name": "seikatsu-184",
+            "stem": "seikatsu",
+            "seats": 2
+        },
+        {
+            "node": "31",
+            "name": "mu-184",
+            "stem": "mu",
+            "seats": 4
+        },
+        {
+            "node": "32",
+            "name": "ketsu-184",
+            "stem": "ketsu",
+            "seats": 1
+        },
+        {
+            "node": "33",
+            "name": "jimin-191",
+            "stem": "jimin",
+            "seats": 122
+        },
+        {
+            "node": "34",
+            "name": "minshin-191",
+            "stem": "minshin",
+            "seats": 50
+        },
+        {
+            "node": "35",
+            "name": "koumei-191",
+            "stem": "koumei",
+            "seats": 25
+        },
+        {
+            "node": "36",
+            "name": "nihonkyosan-191",
+            "stem": "nihonkyosan",
+            "seats": 14
+        },
+        {
+            "node": "37",
+            "name": "ishin-191",
+            "stem": "ishin",
+            "seats": 12
+        },
+        {
+            "node": "38",
+            "name": "m-club-191",
+            "stem": "club",
+            "seats": 5
+        },
+        {
+            "node": "39",
+            "name": "kibou-191",
+            "stem": "kibou",
+            "seats": 5
+        },
+        {
+            "node": "40",
+            "name": "nihon-191",
+            "stem": "nihon",
+            "seats": 3
+        },
+        {
+            "node": "41",
+            "name": "okinawa-191",
+            "stem": "okinawa",
+            "seats": 2
+        },
+        {
+            "node": "42",
+            "name": "mu-191",
+            "stem": "mu",
+            "seats": 4
+        }
+    ],
+    "links": [
+        {
+            "source": "1",
+            "target": "6",
+            "value": 112
+        },
+        {
+            "source": "0",
+            "target": "7",
+            "value": 84
+        },
+        {
+            "source": "2",
+            "target": "8",
+            "value": 20
+        },
+        {
+            "source": "3",
+            "target": "9",
+            "value": 7
+        },
+        {
+            "source": "4",
+            "target": "10",
+            "value": 5
+        },
+        {
+            "source": "5",
+            "target": "12",
+            "value": 10
+        },
+        {
+            "source": "6",
+            "target": "13",
+            "value": 106
+        },
+        {
+            "source": "7",
+            "target": "14",
+            "value": 83
+        },
+        {
+            "source": "8",
+            "target": "15",
+            "value": 19
+        },
+        {
+            "source": "9",
+            "target": "17",
+            "value": 6
+        },
+        {
+            "source": "10",
+            "target": "19",
+            "value": 4
+        },
+        {
+            "source": "11",
+            "target": "20",
+            "value": 3
+        },
+        {
+            "source": "12",
+            "target": "21",
+            "value": 5
+        },
+        {
+            "source": "14",
+            "target": "22",
+            "value": 113
+        },
+        {
+            "source": "13",
+            "target": "23",
+            "value": 58
+        },
+        {
+            "source": "15",
+            "target": "24",
+            "value": 20
+        },
+        {
+            "source": "16",
+            "target": "25",
+            "value": 18
+        },
+        {
+            "source": "17",
+            "target": "26",
+            "value": 11
+        },
+        {
+            "source": "19",
+            "target": "28",
+            "value": 3
+        },
+        {
+            "source": "21",
+            "target": "31",
+            "value": 4
+        },
+        {
+            "source": "22",
+            "target": "33",
+            "value": 122
+        },
+        {
+            "source": "24",
+            "target": "35",
+            "value": 25
+        },
+        {
+            "source": "26",
+            "target": "36",
+            "value": 14
+        },
+        {
+            "source": "27",
+            "target": "37",
+            "value": 12
+        },
+        {
+            "source": "31",
+            "target": "42",
+            "value": 4
+        },
+        {
+            "source": "23",
+            "target": "34",
+            "value": 50
+        },
+        {
+            "source": "23",
+            "target": "34",
+            "value": 50
+        },
+        {
+            "source": "7",
+            "target": "18",
+            "value": 5
+        },
+        {
+            "source": "18",
+            "target": "27",
+            "value": 5
+        },
+        {
+            "source": "28",
+            "target": "39",
+            "value": 3
+        },
+        {
+            "source": "13",
+            "target": "30",
+            "value": 2
+        },
+        {
+            "source": "30",
+            "target": "39",
+            "value": 2
+        },
+        {
+            "source": "0",
+            "target": "11",
+            "value": 4
+        },
+        {
+            "source": "27",
+            "target": "40",
+            "value": 3
+        },
+        {
+            "source": "25",
+            "target": "38",
+            "value": 4
+        },
+        {
+            "source": "7",
+            "target": "16",
+            "value": 11
+        },
+        {
+            "source": "20",
+            "target": "31",
+            "value": 3
+        },
+        {
+            "source": "13",
+            "target": "29",
+            "value": 3
+        },
+        {
+            "source": "29",
+            "target": "42",
+            "value": 1
+        }
+    ]
+}

@@ -31,23 +31,24 @@ let svg = d3.select("#main").append("svg")
     .attr("transform",
           "translate(" + margin.left + "," + margin.top + ")");
 
-var formatNumber = d3.format(",.0f"),
+let formatNumber = d3.format(",.0f"),
     format = function(d) { return formatNumber(d) + " TWh"; },
     color = d3.scaleOrdinal(d3.schemeCategory10);
 
-var sankey = d3.sankey()
+
+let sankey = d3.sankey()
     .nodeWidth(15)
     .nodePadding(10)
     .extent([[1, 1], [width - 1, height - 6]]);
 
-var link = svg.append("g")
+let link = svg.append("g")
     .attr("class", "links")
     .attr("fill", "none")
     .attr("stroke", "#000")
     .attr("stroke-opacity", 0.2)
   .selectAll("path");
 
-var node = svg.append("g")
+let node = svg.append("g")
     .attr("class", "nodes")
     .attr("font-family", "sans-serif")
     .attr("font-size", 10)
@@ -57,7 +58,7 @@ let graph_;
 // load the data
 d3.json("output_seat.json")
   .then(function(graph){
-  // Constructs a new Sankey generator with the default settings.
+
   graph_ = sankey(graph);
 
   link = link
@@ -72,19 +73,13 @@ d3.json("output_seat.json")
   node = node
       .data(graph.nodes)
       .enter().append("g");
-      /*
-    	.call(d3.drag()
-              .subject(function(d){return d})
-              .on('start', function () { this.parentNode.appendChild(this); })
-              .on('drag', dragmove));
-      */
 
     node.append("rect")
         .attr("x", function(d) { return d.x0; })
         .attr("y", function(d) { return d.y0; })
         .attr("height", function(d) { return d.y1 - d.y0; })
         .attr("width", function(d) { return d.x1 - d.x0; })
-        .attr("fill", function(d) { return color(d.name.replace(/ .*/, "")); })
+        .attr("fill", function(d) { return color(d.stem); })
         .attr("stroke", "#000");
 
     node.append("text")
